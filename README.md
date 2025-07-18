@@ -1,2 +1,2 @@
-# project-promo-53-module-4-team-3
-Grupo 3 Modulo 4
+# Proyecto molón 2.0
+Aplicación web para crear tarjetas personalizadas sobre proyectos personales. Hecho con mis compañeras de Bootcamp.
